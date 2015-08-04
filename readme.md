@@ -5,4 +5,8 @@ This very little tiny script helps you to put the password already present on th
 ## How I set it up ?
 
 Bookmark manager > add a page > put the reader-utf8.js into the value of this field
-That's all, you can now click on the new bookmark when you have a password present but hidden under the bullets :D 
+That's all, you can now click on the new bookmark when you have a password present but hidden under the bullets :D
+
+### How can I encode my script into UTF-8 properly
+
+https://chriszarate.github.io/bookmarkleter/
